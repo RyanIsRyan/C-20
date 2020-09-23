@@ -1,2 +1,2 @@
-# C-20
-isTouching logic
+# p5.play-boilerplate
+Boiler plate for p5.play
